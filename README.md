@@ -4,6 +4,8 @@ An E-Commerce website for ordering Pizza Online
 
 ## Demo
 
+Live Demo Link: https://celebrated-chimera-97a4b5.netlify.app
+
 <div align="center">
     <img src="./readme_img/preview.png" style="width: 640px" />
 </div>
